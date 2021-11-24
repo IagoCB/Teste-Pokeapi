@@ -1,4 +1,4 @@
-# Testes-API-S206
+# Testes-Pokeapi
 Repositório para a disciplina de Qualidade de Software contendo o projeto de Testes de API utilizando o framework Karate.
 
 A API utilizada foi sobre Pokemon e está disponível em https://pokeapi.co/
