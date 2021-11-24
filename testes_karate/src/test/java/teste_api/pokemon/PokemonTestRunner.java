@@ -10,7 +10,7 @@ public class PokemonTestRunner {
     @Test
     void testParallel() {
         Results results = Runner.path("classpath:teste_api")
-                .tags("~@ignore")
+                .tags("@pokeapi")
                 //.outputCucumberJson(true)
                 .parallel(5);
         assertEquals(0, results.getFailCount(), results.getErrorMessages());

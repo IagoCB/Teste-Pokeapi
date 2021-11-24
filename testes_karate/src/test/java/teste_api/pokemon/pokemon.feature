@@ -1,3 +1,4 @@
+@pokeapi
 Feature: Executar testes funcionais nas APIs do Pokemon
 
 Scenario: Verificar o retorno com sucesso da API /pokemon/ditto com dados válidos de requisição (request)
